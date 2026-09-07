@@ -20,3 +20,4 @@ Fork-origin Pull Request review eventlerinin güvenli iki aşamalı relay üzeri
 - Changes Requested feedback
 - Aynı branch ve aynı PR üzerinden düzeltme
 - Approval feedback
+- Changes Requested sonrası düzeltme push'u doğrulandı.
